@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 Version initiale de l'application.
+=======
+Version initiale de l'application.
+
+Ajout de la fonctionnalité 1.
+
+Ajout de la fonctionnalité 2.
+>>>>>>> Stashed changes
